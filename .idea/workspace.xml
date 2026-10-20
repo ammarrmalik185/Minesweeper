@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d83ef80-8044-45dd-9531-97151a364ecb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/.idea/Ganchyas-Website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/.idea/Ganchyas-Website.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/images/logo main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/images/logo test 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/mainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/mainPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/mainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/mainPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/mainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/mainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/mainPageFragments/forumFragment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website/mainPageFragments/forumFragment.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Ganchyas/Ganchyas-Website" />
+  </component>
+  <component name="ProjectId" id="1b5ATLYGCX84NvKZgN8LM1884Nb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chess" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web Projects\Minesweeper\(public)\gameFiles" />
+      <recent name="E:\Web Projects\Minesweeper\(public)" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d83ef80-8044-45dd-9531-97151a364ecb" name="Default Changelist" comment="" />
+      <created>1587911587883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587911587883</updated>
+      <workItem from="1587911590426" duration="9077000" />
+      <workItem from="1587944525210" duration="1840000" />
+      <workItem from="1587963956079" duration="6434000" />
+      <workItem from="1588036703326" duration="4539000" />
+      <workItem from="1588051135677" duration="191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

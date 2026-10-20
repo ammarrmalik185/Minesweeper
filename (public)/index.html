@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Minesweeper</title>
+    <link type="text/css" href="gameFiles/tileGrid.css" rel="stylesheet">
+  </head>
+
+  <body >
+
+    <div id="snackbar"></div>
+
+    <div id="header">
+
+      <h1>Minesweeper</h1>
+      <p>Made by ParadoX</p>
+
+    </div>
+
+    <div id = "values">
+
+      <div>
+        <label for="xSize">Size :</label>
+        <input type="number" id="xSize" value="9">
+
+        <label for="ySize"> X </label>
+        <input type="number" id="ySize" value="9">
+      </div>
+
+      <div>
+        <label for="mineCount">Mines</label>
+        <input type="number" id="mineCount" value="5">
+      </div>
+
+      <button onclick="setup()">Start</button>
+
+    </div>
+
+    <div id="remainingMineCountContainer">
+      <p id="timer">0</p>
+      <p id="remainingMineCount">5</p>
+    </div>
+
+    <div id = "gameContainer">
+      <div id = "tileGridContainer" oncontextmenu="return false;"></div>
+    </div>
+
+    <script type="text/javascript" src="gameFiles/minesweeperIndex.js"></script>
+
+  </body>
+</html>

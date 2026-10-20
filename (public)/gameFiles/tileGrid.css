@@ -1,0 +1,171 @@
+body{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#header{
+    padding-top: 1%;
+    margin: 0;
+    background: rgba(34, 34, 34, 0.88);
+    text-align: center;
+}
+#header h1{
+    margin-top : 1%;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    padding-top: 2%;
+    font-size: 550%;
+    border-radius: 20%;
+    margin-bottom: 1%;
+    font-family: "Aristotelica Small Caps", serif;
+}
+#header p{
+    font-family: "Aristotelica Small Caps", serif;
+    background-color: black;
+    margin: 0;
+    color: white;
+}
+
+#xSize,
+#ySize{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    display: inline-block;
+    width : 50px
+}
+#mineCount{
+    width: 50px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#values button{
+    margin-top: 1%;
+    margin-bottom: 2%;
+    width: 20%;
+    height: 10%;
+    color: white;
+    padding: 2px;
+    background-color: black;
+    border: 0;
+    border-radius: 25%;
+}
+#values {
+    margin: 1% 25%;
+    border-radius: 25%;
+    background-color: gray;
+    text-align: center;
+}
+
+#remainingMineCountContainer{
+    font-family: Calibri, serif;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+#remainingMineCountContainer p {
+    margin: 0;
+    padding: 0;
+}
+
+#gameContainer{
+    margin-bottom: 100px;
+    width: 99%;
+    text-align: center;
+}
+#tileGridContainer {
+    border-radius: 5%;
+    overflow-y: auto;
+    height: fit-content;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    background: rgba(34, 34, 34, 0.88);
+}
+#tileGridContainer .row{
+    height: 28px;
+    padding: 0;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    width: auto;
+}
+#tileGridContainer .row div{
+    border-radius: 25%;
+    color: black;
+    margin: 1px;
+    background: #ffffff;
+    display: inline-block;
+    width: 28px;
+    height: 100%;
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+
+}
+#tileGridContainer .row .concealed:hover,
+#tileGridContainer .row .flagged:hover {
+
+    cursor: pointer;
+}
+#tileGridContainer .row .concealed{
+    background: black;
+}
+#tileGridContainer .row .flagged{
+    color: red;
+    background: red;
+}
+#tileGridContainer .row .exploded{
+    color: white;
+    background: red;
+}
+#tileGridContainer .row .saved{
+    color: white;
+    background: green;
+}
+
+#snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 5;
+    left: 50%;
+    bottom: 30px;
+}
+#snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+@-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+@keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+@-webkit-keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
+@keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
