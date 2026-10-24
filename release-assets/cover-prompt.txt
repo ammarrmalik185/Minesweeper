@@ -1,0 +1,13 @@
+Generated with the built-in image_gen tool.
+
+Use case: ads-marketing
+Asset type: itch.io game cover, landscape 1260 by 1000 pixels, roughly 1.26:1 ratio.
+Primary request: A polished cover for a small classic browser Minesweeper game by ParadoX.
+Scene/backdrop: charcoal black background with restrained grid texture.
+Subject: a bold close-up Minesweeper board with rounded square tiles, some concealed black tiles, revealed white tiles with crisp dark numbers 1, 2 and 3, one red flag tile and a subtle green cleared tile. Stylized promotional illustration, not a gameplay screenshot.
+Style/medium: sharp graphic illustration with subtle dimensional depth, clean modern retro puzzle aesthetic.
+Composition/framing: large readable title across upper third; board diagonally arranged below, strong focal point, balanced negative space. Readable as a small store thumbnail.
+Color palette: black, white, charcoal gray with small red and green accents.
+Text (verbatim): "MINESWEEPER" and smaller "by ParadoX".
+Constraints: exact legible title, no extra copy, no watermark, no people, no photoreal battlefield or explosive scene, no unrelated logos. Keep all text and main board comfortably inside the image edges. Opaque background.
+

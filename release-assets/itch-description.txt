@@ -1,0 +1,3 @@
+﻿Clear the board. Trust the numbers. Avoid the mines.
+
+A classic Minesweeper game you can play right in your browser. Choose your grid size and mine count, uncover safe tiles, and flag hidden mines. Left-click to reveal a tile; right-click to toggle a flag.
